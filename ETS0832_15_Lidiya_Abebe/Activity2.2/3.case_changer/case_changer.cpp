@@ -1,24 +1,26 @@
+//converting a letter to its uppercase or lowercase equivalent
 #include <iostream>
-#include <cmath> // for pow function
+#include <cctype>
 using namespace std;
 
-int main() {
-    // Declare variables to store the base (x) and exponent (y)
-    double x, y;
+int main()
+{
+    char letter;
 
-    // Get user input for the base (x)
-    cout << "Enter the base (x): ";
-    cin >> x;
+    cout << "Enter a letter: ";
+    cin >> letter;
 
-    // Get user input for the exponent (y)
-    cout << "Enter the exponent (y): ";
-    cin >> y;
+    if (isalpha(letter))
+        {
+        char uppercaseLetter = toupper(letter);
+        cout << "Uppercase equivalent: " << uppercaseLetter << endl;
 
-    // Calculate the result using the pow function
-    double result = pow(x, y);
-
-    // Display the result
-    cout << x << " raised to the power of " << y << " is: " << result << endl;
+        char lowercaseLetter = tolower(letter);
+        cout << "Lowercase equivalent: " << lowercaseLetter << endl;
+    } else {
+        cout << "Invalid input. Please enter a letter." << endl;
+    }
 
     return 0;
 }
+
