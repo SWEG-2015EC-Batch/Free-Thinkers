@@ -1,19 +1,16 @@
+//calculate the BMI
 #include <iostream>
+
 using namespace std;
 
 int main()
 {
-    double tankCapacity, milesPerGallon;
-
-    cout << "Enter the fuel tank capacity in gallons: ";
-    cin >> tankCapacity;
-
-    cout << "Enter the miles per gallon: ";
-    cin >> milesPerGallon;
-
-    double milesWithoutRefueling = tankCapacity * milesPerGallon;
-
-    cout << "The automobile can be driven approximately " << milesWithoutRefueling << " miles without refueling." << endl;
-
+    double weight, height, BMI;
+    cout << "enter weight in kilogram" ;
+    cin>>weight;
+    cout << "enter height in meter" ;
+    cin>> height;
+    BMI=weight/height*height;
+    cout<< BMI;
     return 0;
 }
