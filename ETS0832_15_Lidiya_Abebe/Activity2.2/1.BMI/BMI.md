@@ -1,12 +1,12 @@
 # Program analysis
 
-Input: height h and weight w
+Input: height  and weight 
 
 Output: Body mass index (BMI)
 
 Operation: - read height as h weight as w and  Body mass index as BMI
 
-           -BMI=w/h*h
+           -BMI=weight/height*height
            
            -display BMI
 
@@ -14,9 +14,9 @@ Operation: - read height as h weight as w and  Body mass index as BMI
 
 Step 1: start
 
-Step 2: enter h and w
+Step 2: enter height and weight
 
-Step 3:calculate BMI as BMI=w/h*h
+Step 3:calculate BMI as BMI=weight/height*height
 
 Step 4:display BMI
 
