@@ -1,4 +1,4 @@
-#3 case converter
+#3 case changer
 ##Program analysis
 Input: a charcter(W)
 Output: uppercase or lowercase or error
