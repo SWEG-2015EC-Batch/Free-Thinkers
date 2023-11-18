@@ -26,5 +26,6 @@ Step 5:end
 
 # Flow chart
 
-[image](https://github.com/SWEG-2015EC-Batch/Free-Thinkers/assets/149039271/f2d3f640-07e8-4ae2-b709-efb12eda9075)
+![BMI](https://github.com/SWEG-2015EC-Batch/Free-Thinkers/assets/149406171/328cce85-f0b5-46c1-a1b8-f87080c11279)
+
 
