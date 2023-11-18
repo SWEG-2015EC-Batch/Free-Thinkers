@@ -1,16 +1,16 @@
 # Program analysis
 
-Input: Byte 
+* Input: Byte 
 
-Output:timeInSec, timeInHour, timeInDay
+* Output:timeInSec, timeInHour, timeInDay
 
-Operation: - timeInSec= Byte/960
+* Operation: * TimeInSec= Byte/960
 
-  - timeInHour=timeInSec/3600
+             * TimeInHour=timeInSec/3600
   
-  - timeInDay=timeInHour/24
+             * TimeInDay=timeInHour/24
  
- -display timeInSec, timeInHour, timeInDay
+             * Display timeInSec, timeInHour, timeInDay
 
 # Pseudocode 
 
