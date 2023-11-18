@@ -20,7 +20,7 @@ Step 2: enter Capacity and MPG
 
 Step 3:calculate Miles, Miles=Capacity*MPG
 
-Step 4:display pd
+Step 4:display Miles
 
 Step 5:end
 
