@@ -14,7 +14,7 @@
  
              - Display timeInSec, timeInHour, timeInDay
 
-# Pseudocode 
+## Pseudocode 
 
 Step 1: start
 
@@ -26,7 +26,7 @@ Step 4:display timeInSec, timeInHour, timeInDay
 
 Step 5:end
 
-# Flow chart
+### Flow chart
 
 ![Bytes](https://github.com/SWEG-2015EC-Batch/Free-Thinkers/assets/149406171/aab547eb-8290-44ef-8026-884c612e9f0f)
 
