@@ -19,3 +19,8 @@ Step 3:calculate F as F=pow(X,Y)
 Step 4:display F
 
 Step 5:end
+
+# flow chart
+
+[image](https://github.com/SWEG-2015EC-Batch/Free-Thinkers/assets/149039271/378b2ce8-434c-4fdf-8451-b474e2991e29)
+
