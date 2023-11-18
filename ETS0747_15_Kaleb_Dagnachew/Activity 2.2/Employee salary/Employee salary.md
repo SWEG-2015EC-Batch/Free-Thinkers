@@ -1,16 +1,16 @@
 # Program analysis
 
-Input: employee name, work hour, base salary, bonus rate   
+ * Input: employee name, work hour, base salary, bonus rate   
 
-Output: gross salary, net salary, bonus payment
+* Output: gross salary, net salary, bonus payment
 
-Operation: -gross salary=base salary+ (work hour*bonus rate*4)
+* Operation: -gross salary=base salary+ (work hour*bonus rate*4)
 
-  -net salary=gross salary-(gross salary*pension rate)-(gross salary* tax rate)
+     * net salary=gross salary-(gross salary*pension rate)-(gross salary* tax rate)
  
-  -bonus payment=work hour*bonus rate*4
+     * bonus payment=work hour*bonus rate*4
 
-  -display gross salary, net salary, bonus payment
+     * display gross salary, net salary, bonus payment
 
 # Pseudocode 
 
