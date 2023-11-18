@@ -12,7 +12,7 @@
 
              - Display Miles
 
-# Pseudocode 
+## Pseudocode 
 
 Step 1: start
 
@@ -24,7 +24,7 @@ Step 4:display pd
 
 Step 5:end
 
-# Flow chart
+### Flow chart
 
 ![q6](https://github.com/SWEG-2015EC-Batch/Free-Thinkers/assets/149406171/b69f5efa-61b3-408c-a689-25fa8c39c614)
 
