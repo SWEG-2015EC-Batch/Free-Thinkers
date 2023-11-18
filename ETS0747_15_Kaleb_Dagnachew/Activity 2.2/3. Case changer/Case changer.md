@@ -10,7 +10,7 @@
 
               - If W is upper case,result is lowercase;if W is lower case, result is uppercase and if W is else,result is error
 
-# Pseudocode 
+## Pseudocode 
 
 Step 1: start
 
@@ -22,7 +22,7 @@ Step 4:display the result
 
 Step 5:end
 
-# Flow chart
+### Flow chart
 
 ![Case changer](https://github.com/SWEG-2015EC-Batch/Free-Thinkers/assets/149406171/dead35b9-931e-4cd8-bb6e-9663de776957)
 
