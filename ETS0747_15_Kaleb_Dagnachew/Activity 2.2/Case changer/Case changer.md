@@ -1,12 +1,12 @@
 # Program analysis
 
-Input: a charcter(W)
+* Input: a charcter(W)
 
-Output: uppercase or lowercase or error
+* Output: uppercase or lowercase or error
 
-Operation: - read a charcteras W
+* Operation:  - Read a charcteras W
 
--if W is upper case,result is lowercase;if W is lower case, result is uppercase and if W is else,result is error
+              - If W is upper case,result is lowercase;if W is lower case, result is uppercase and if W is else,result is error
 
 # Pseudocode 
 
