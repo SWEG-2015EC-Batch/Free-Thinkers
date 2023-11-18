@@ -25,7 +25,7 @@ Step 5:end
 # flowchart
 
 ```mermaid
-flowchart TD;
+         flowchart TD;
 A([start]) --> B[/Enter your weight/];
 B --> C[/enter your height/];
 C --> D["BMI = weight/(height*height)"];
