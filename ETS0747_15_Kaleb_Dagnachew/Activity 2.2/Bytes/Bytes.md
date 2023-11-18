@@ -28,4 +28,5 @@ Step 5:end
 
 # Flow chart
 
-[image](https://github.com/SWEG-2015EC-Batch/Free-Thinkers/assets/149039271/f2d2f9db-80e4-4ddc-90fe-89b0cd9e5fbe)
+![Bytes](https://github.com/SWEG-2015EC-Batch/Free-Thinkers/assets/149406171/aab547eb-8290-44ef-8026-884c612e9f0f)
+
