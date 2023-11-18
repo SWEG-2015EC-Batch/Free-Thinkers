@@ -1,14 +1,14 @@
 # Program analysis
 
-Input: height h and weight w
+* Input: height h and weight w
 
-Output: BMI
+* Output: BMI
 
-Operation: -read height as h weight as w
+* Operation: * Read height as h weight as w
 
-           -Calculate BMI as BMI=w/h*h
+             * Calculate BMI as BMI=w/h*h
            
-           -display BMI 
+             * Display BMI 
 
 # Pseudocode 
 
