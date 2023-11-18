@@ -4,11 +4,11 @@
 
 * Output: BMI
 
-* Operation: * Read height as h weight as w
+* Operation:  - Read height as h weight as w
 
-             * Calculate BMI as BMI=w/h*h
+             - Calculate BMI as BMI=w/h*h
            
-             * Display BMI 
+             - Display BMI 
 
 # Pseudocode 
 
