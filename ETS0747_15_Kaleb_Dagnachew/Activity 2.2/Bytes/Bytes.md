@@ -4,13 +4,15 @@
 
 * Output:timeInSec, timeInHour, timeInDay
 
-* Operation: * TimeInSec= Byte/960
+* Operation:
 
-             * TimeInHour=timeInSec/3600
+             - TimeInSec= Byte/960
+
+             - TimeInHour=timeInSec/3600
   
-             * TimeInDay=timeInHour/24
+             - TimeInDay=timeInHour/24
  
-             * Display timeInSec, timeInHour, timeInDay
+             - Display timeInSec, timeInHour, timeInDay
 
 # Pseudocode 
 
@@ -24,6 +26,6 @@ Step 4:display timeInSec, timeInHour, timeInDay
 
 Step 5:end
 
-# flow chart
+# Flow chart
 
 [image](https://github.com/SWEG-2015EC-Batch/Free-Thinkers/assets/149039271/f2d2f9db-80e4-4ddc-90fe-89b0cd9e5fbe)
