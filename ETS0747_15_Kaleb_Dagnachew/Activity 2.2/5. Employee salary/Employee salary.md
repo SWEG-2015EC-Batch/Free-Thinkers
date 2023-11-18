@@ -14,7 +14,7 @@
 
                - Display gross salary, net salary, bonus payment
 
-# Pseudocode 
+## Pseudocode 
 
 Step 1: start
 
@@ -26,7 +26,7 @@ Step 4:display gross salary, net salary and bonus payment
 
 Step 5:end
 
-# Flow chart
+### Flow chart
 
 ![salary](https://github.com/SWEG-2015EC-Batch/Free-Thinkers/assets/149406171/ee1239bf-76c7-4da4-ad05-ecf4ac5b4a20)
 
