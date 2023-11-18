@@ -22,13 +22,4 @@ Step 4:display BMI
 
 Step 5:end
 
-# flowchart
 
-```mermaid
-         flowchart TD;
-A([start]) --> B[/Enter your weight/];
-B --> C[/enter your height/];
-C --> D["BMI = weight/(height*height)"];
-D --> E[/Print  BMI];
-E --> F([End]);
-```
