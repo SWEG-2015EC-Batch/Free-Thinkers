@@ -11,4 +11,4 @@ Step 2: enter a charcter(W)
 Step 4:display the result
 Step 5:end
 ##Flow chart
-[]image(https://github.com/SWEG-2015EC-Batch/Free-Thinkers/assets/149039271/2ecc1068-4c6f-40eb-a79c-5858a4dce016)
+[image](https://github.com/SWEG-2015EC-Batch/Free-Thinkers/assets/149039271/2ecc1068-4c6f-40eb-a79c-5858a4dce016)
