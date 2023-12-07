@@ -1,9 +1,12 @@
 # Problem analysis
 Input:Gsalary, workedhr, Overtimebhr
 
+
 Output: Netsalary
 
+
 Operation: 
+
 
 -Intitiate Bonusp=0
 
