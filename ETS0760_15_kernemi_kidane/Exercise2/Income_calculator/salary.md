@@ -41,7 +41,3 @@ Step8:end
 
 # Flowchart
 <img width="172" alt="image" src="https://github.com/SWEG-2015EC-Batch/Free-Thinkers/assets/149039271/e82d1af5-ea90-41cd-9a68-ad6df7dfcd6d">
-
-
-
-<img width="172" alt="image" src="https://github.com/SWEG-2015EC-Batch/Free-Thinkers/assets/149039271/324430b4-5b32-40d7-b01a-826c1fdd2995">
