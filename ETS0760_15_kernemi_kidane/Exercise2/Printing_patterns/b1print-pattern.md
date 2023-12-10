@@ -98,5 +98,7 @@ Step5:end
 
 <img width="354" alt="image" src="https://github.com/SWEG-2015EC-Batch/Free-Thinkers/assets/149039271/c30a113d-5233-4db8-934b-396baf11cdc3">
 
+<img width="292" alt="image" src="https://github.com/SWEG-2015EC-Batch/Free-Thinkers/assets/149039271/5ebc3672-a0dc-4357-bb83-7b6dc702cdd5">
+
 
 
