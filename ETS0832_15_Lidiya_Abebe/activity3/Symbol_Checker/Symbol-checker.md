@@ -1,4 +1,5 @@
-Problem analysis
+#Problem analysis
+
 Input:character(ch)
 
 Output: determine it as uppercase alphabet or lowercase alphabet or digit
@@ -13,8 +14,10 @@ if (isupper(ch)) display the entered character is an uppercase alphabet   else d
 
 -else display the entered character is a special character   
 
-Algorthim Design
-Pseudocode
+#Algorthim Design
+
+#Pseudocode
+
 Step1:start
 
 Step2:Enter ch
@@ -32,3 +35,9 @@ Step5:else if (isdigit(ch)) print "The entered character is a digit.” else
 print "The entered character is a special character." go to step 6
 
 Step6:end
+
+#Flowchart
+
+![image](https://github.com/SWEG-2015EC-Batch/Free-Thinkers/assets/117913089/e8b69b5f-a905-4622-b80e-0ec53eb6f090)
+
+
