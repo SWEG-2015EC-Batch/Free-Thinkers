@@ -18,12 +18,12 @@ Switch(op):
 Default error
 
 # pseudo code 
-  step 1:Start
-  step 2:Initialize stop as 0
-  step 3:Repeat the following steps while stop is not equal to 0
-  a. Input num1
-  b. Input num2
-  c. Input opr
+ - step 1:Start
+ - step 2:Initialize stop as 0
+ - step 3:Repeat the following steps while stop is not equal to 0
+                - a. Input num1
+                - b. Input num
+                 -c. Input opr
   step 4:Switch opr
       i. Case '+': Calculate the sum of num1 and num2
       ii. Case '-': Calculate the subtraction of num1 and num2
