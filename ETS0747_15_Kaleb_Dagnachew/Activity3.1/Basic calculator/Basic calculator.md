@@ -19,18 +19,32 @@ Default error
 
 # pseudo code 
  - step 1:Start
+   
  - step 2:Initialize stop as 0
+   
  - step 3:Repeat the following steps while stop is not equal to 0
+   
                 - a. Input num1
+
                 - b. Input num
+
                  -c. Input opr
+   
   step 4:Switch opr
+
       i. Case '+': Calculate the sum of num1 and num2
+      
       ii. Case '-': Calculate the subtraction of num1 and num2
+      
       iii. Case '/': Calculate the division of num1 by num2
+      
       iv. Case '*': Calculate the multiplication of num1 and num2
+      
       v. Default: Display an error message for an invalid operator
+      
   step 5:Display the result
+
   step 6:Input stop
+  
   step 7:End
 
