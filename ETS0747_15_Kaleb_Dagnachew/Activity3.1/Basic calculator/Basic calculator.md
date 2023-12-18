@@ -48,6 +48,7 @@ Default error
   
 - step 7:End
   # Flow chart
+graph TD
     A[Start] -->|Initialize| B(Initialize stop as integer)
     B -->|Initialize| C(Initialize num1, num2, operation as float)
     C -->|Initialize| D(Initialize opr as char)
