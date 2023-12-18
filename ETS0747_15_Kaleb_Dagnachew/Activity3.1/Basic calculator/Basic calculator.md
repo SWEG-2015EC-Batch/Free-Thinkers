@@ -1,54 +1,31 @@
-#Problem analysis
 
-Input: operator(op),num1,num2
+Start:
 
-Output: result
+Display "Start" shape
+Initialize Variables:
 
-Operation:
+Display "Process" shape with "Initialize variables (e.g., repoName, userName)" inside
+Input Repository Name:
 
--Do for each while true
+Display "Input/Output" shape with "Input repository name" inside
+Connect to "Initialize Variables" with an arrow
+Input User Name:
 
-  - If(op== ‘0’) ,exit 
-  
-    - Switch(op): 
-    
-         Case“+” result=num1+num2
-         
-         Case“-” result=num1-num2
-         
-         Case“*” result=num1*num2
-         
-         Case“/” if(num2!=0) result=num1+num2 else error
-         
-          Default error
-#Algorthim Design
+Display "Input/Output" shape with "Input user name" inside
+Connect to "Input Repository Name" with an arrow
+Check Repository Existence:
 
-#Pseudocode
+Display "Decision" shape with "Does the repository exist?" inside
+If Yes, connect to "Input User Name" with a labeled arrow (e.g., "Yes")
+If No, connect to "End" with a labeled arrow (e.g., "No")
+GitHub API Call:
 
-Step1:start
+Display "Process" shape with "Call GitHub API to check repository existence" inside
+Connect to "Check Repository Existence" with labeled arrows (e.g., "Repository exists", "Repository does not exist")
+Display Result:
 
-Step2:do the following
+Display "Input/Output" shape with "Display result" inside
+Connect to "GitHub API Call" with an arrow
+End:
 
-Step3:Enter operator(+,-,*,/) or 0 to exit
-
-Step4:if(op==0) display exit and break loop otherwise go to step 5
-
-Step5:enter num1 and num2
-
-Step6:switch(op):
-
-         Case“+” result=num1+num2
-         
-         Case“-” result=num1-num2
-         
-         Case“*” result=num1*num2
-         
-         Case“/” if(num2!=0) result=num1+num2 else display error
-         
-          Default display error
-Step7:display result
-
-Step8:end
-
-#Flowchart
-
+Display "End" shape
