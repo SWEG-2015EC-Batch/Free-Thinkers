@@ -47,32 +47,55 @@ Default error
 - step 6:Input stop
   
 - step 7:End
-  ### flow chart
-  graph TD
+  # Flow chart
     A[Start] -->|Initialize| B(Initialize stop as integer)
+  
     B -->|Initialize| C(Initialize num1, num2, operation as float)
+  
     C -->|Initialize| D(Initialize opr as char)
+  
     D -->|Input| E(Display "Enter first number:")
+  
     E -->|Input| F(Input num1)
+  
     F -->|Input| G(Display "Enter second number:")
+  
     G -->|Input| H(Input num2)
+  
     H -->|Input| I(Display "Enter an operator (+, *, -, /):")
+  
     I -->|Input| J(Input opr)
+  
     J -->|Switch| K(Switch opr)
+  
     K -->|'+'| L(operation = num1 + num2)
+  
     L --> M(Display "The sum of", num1, "and", num2, "is", operation)
+  
     K -->|'-'| N(operation = num1 - num2)
+  
     N --> O(Display "The subtraction of", num1, "and", num2, "is", operation)
+  
     K -->|'/'| P(operation = num1 / num2)
+  
     P --> Q(Display "The division of", num1, "and", num2, "is", operation)
+  
     K -->|'*'| R(operation = num1 * num2)
+  
     R --> S(Display "The multiplication of", num1, "and", num2, "is", operation)
+  
     K -->|Default| T(Display "You entered the wrong operator")
+  
     T -->|Input| U(Display "Enter 0 to stop or any number to continue:")
+  
     U -->|Input| V(Input stop)
+  
     V -->|Clear Screen| W(Clear the screen)
+  
     W -->|Loop| A
+  
     A -->|Stop Condition| X(stop != 0)
+  
     X -->|End| Y[End]
 
 
