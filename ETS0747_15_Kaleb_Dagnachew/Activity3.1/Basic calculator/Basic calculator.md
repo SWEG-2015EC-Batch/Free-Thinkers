@@ -47,7 +47,6 @@ Default error
 - step 6:Input stop
   
 - step 7:End
-  # Flow chart
 
 
 
