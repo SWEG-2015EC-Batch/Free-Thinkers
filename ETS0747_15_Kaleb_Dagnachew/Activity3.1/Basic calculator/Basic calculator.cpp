@@ -36,10 +36,6 @@ int stop;
     }
     cout << "\n\nEnter 0 to stop or any number to continue: ";
     cin >> stop;
-    cout << "\n\n";
-    cout << "\033[2J\033[1;1H";
-
-
     } while(stop != 0);
     return 0;
 }
